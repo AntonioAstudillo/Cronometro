@@ -1,0 +1,20 @@
+.contenedor{
+   width: 800px;;
+   margin: 0 auto;
+   margin-top: 100px;
+   padding: 15px;
+   border: 1px solid black;
+}
+
+h1 , p{
+   text-align: center;
+}
+
+p{
+   font-size: 150px;
+}
+
+.botones{
+   width: 40%;
+   margin: 0 auto;
+}
